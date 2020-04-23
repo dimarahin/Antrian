@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://Antrian.com/ns/1.0"
+    id          = "com.Antrian.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Antrian</name>
+
+  <description>
+      An example for Antrian build docs.
+  </description>
+
+  <author href="https://build.Antrian.com" email="support@Antrian.com">
+      Antrian tes
+  </author>
+
+</widget>
